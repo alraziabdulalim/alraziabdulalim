@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Personal Portfolio Website",
+        "description": "A static portfolio site showcasing my work, skills, and experiences.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "start_date": "2023-01-10",
+        "end_date": "2023-01-20",
+        "duration": "10 days"
+    },
+    {
+        "id": 2,
+        "title": "E-commerce Platform",
+        "description": "Developed a full-featured e-commerce platform with product management and payment integration.",
+        "technologies": ["PHP", "Laravel", "MySQL"],
+        "start_date": "2022-11-01",
+        "end_date": "2022-12-15",
+        "duration": "45 days"
+    },
+    {
+        "id": 3,
+        "title": "Blog CMS",
+        "description": "Created a content management system for blogging with user authentication and role management.",
+        "technologies": ["Python", "Django", "SQLite"],
+        "start_date": "2023-03-01",
+        "end_date": "2023-03-10",
+        "duration": "9 days"
+    },
+    {
+        "id": 4,
+        "title": "Mobile Banking App",
+        "description": "A mobile app for secure banking transactions and account management.",
+        "technologies": ["Java", "Android", "Firebase"],
+        "start_date": "2023-05-01",
+        "end_date": "2023-06-15",
+        "duration": "45 days"
+    },
+    {
+        "id": 5,
+        "title": "Real-Time Chat Application",
+        "description": "Developed a real-time chat application with support for multiple rooms and user authentication.",
+        "technologies": ["Node.js", "Express", "Socket.io"],
+        "start_date": "2023-02-01",
+        "end_date": "2023-02-10",
+        "duration": "9 days"
+    },
+    {
+        "id": 6,
+        "title": "Task Management Tool",
+        "description": "Built a task management tool with Kanban-style boards for team collaboration.",
+        "technologies": ["React", "Redux", "Firebase"],
+        "start_date": "2022-09-01",
+        "end_date": "2022-09-20",
+        "duration": "19 days"
+    },
+    {
+        "id": 7,
+        "title": "Weather Forecasting System",
+        "description": "A system to fetch and display real-time weather data using an external API.",
+        "technologies": ["Python", "Flask", "OpenWeather API"],
+        "start_date": "2023-04-05",
+        "end_date": "2023-04-10",
+        "duration": "5 days"
+    },
+    {
+        "id": 8,
+        "title": "Online Learning Platform",
+        "description": "Developed an online platform for creating and selling courses with video and quiz support.",
+        "technologies": ["Ruby on Rails", "PostgreSQL", "Stripe"],
+        "start_date": "2022-12-01",
+        "end_date": "2023-01-15",
+        "duration": "45 days"
+    },
+    {
+        "id": 9,
+        "title": "Expense Tracker",
+        "description": "A web application to track personal expenses and generate monthly reports.",
+        "technologies": ["Vue.js", "Node.js", "MongoDB"],
+        "start_date": "2023-06-01",
+        "end_date": "2023-06-07",
+        "duration": "6 days"
+    },
+    {
+        "id": 10,
+        "title": "Social Media Dashboard",
+        "description": "Built a dashboard for analyzing social media metrics across different platforms.",
+        "technologies": ["PHP", "Laravel", "MySQL"],
+        "start_date": "2023-07-01",
+        "end_date": "2023-07-10",
+        "duration": "9 days"
+    }
+]
